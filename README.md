@@ -5,6 +5,8 @@ Repo de las clases de JEE del curso de CISCO
 Este repositorio servirá como canal de comunicación con todos los alumnos.
 
 # Separación por clases
+# Clase 1 - Contextualización de JEE
+  - Intro a Git
 
 # Author
 Pablo Frias 
