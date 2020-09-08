@@ -5,14 +5,25 @@
  */
 package org.cisco.jee.biblioteca;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author pablo
  */
 public class Biblioteca {
     
-    public static void main(String[] args) {
-        System.out.println("Hola mundo");
+    List<Object> libros;
+    
+    public Biblioteca(){
+        libros = new ArrayList<>();
+               
     }
+    public void addLibro(Object libro){
+        libros.add(libro);
+    }
+    
+    
     
 }
